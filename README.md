@@ -19,9 +19,11 @@ Y or N
 Here is an example of the program running:
 
 ```
-T or E
-red,green,or blue
-Y or N
+Hello welcome to Color Now! :)
+Menu
+==============
+(T)ry new color
+(E)nd
 ```
 
 ## C++ Guide
